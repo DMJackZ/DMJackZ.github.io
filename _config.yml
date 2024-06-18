@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "赵志欣"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "人生最大的贵人，是努力向上的自己"
   location         : "中国🇨🇳北京"
   employer         : "Red Brick University"
   uri              : # URL
